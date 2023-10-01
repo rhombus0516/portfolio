@@ -1,24 +1,14 @@
-# README
+# 小説投稿サイト
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h2>サイト概要
+<h4>サイトテーマ
+<h5>・創作物を共有するサイト
+<h5>・分類:コニュニティーサイト
 
-Things you may want to cover:
+<h4>テーマを選んだ理由
+<h4>ターゲットユーザー
+<h4>主な活用シーン
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<h2>設計書
+<h2>開発環境
+<h2>使用素材
